@@ -1,4 +1,4 @@
-# Letsupgrade-JavaScript
+# Letsupgrade-JavaScript 
 Q.1
 Methods of console function:
 1.console.log() method 
