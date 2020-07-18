@@ -1,4 +1,5 @@
-# Letsupgrade-JavaScript 
+# Letsupgrade-JavaScript Day 1 Assignment
+Day1
 Q.1
 Methods of console function:
 1.console.log() method 
